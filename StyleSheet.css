@@ -1,0 +1,16 @@
+
+-- Color1 = #8E1C17
+-- Color2 = #001C4D
+-- Color3 = #BFBBB8
+-- Color4 = #F2F2F2
+
+header { 
+    display:block;
+    /* Padding Top, Right, Bottom, Left */
+    padding: 0px 0px 70px 0px;
+}
+
+body {
+    background-color:#bfbbb8;"
+
+}
